@@ -67,4 +67,46 @@ Opcional: Automatizaciones y base de conocimiento
 
 El formulario puede sugerir artículos de la base de conocimientos sobre repuestos populares o procedimientos de cambio, ayudando al cliente a resolver su consulta más rápido.
 Se pueden configurar automatizaciones para priorizar las consultas sobre repuestos críticos.
-¿Te gustaría ver un ejemplo de cómo estructurar el formulario en Freshdesk o cómo automatizar la asignación de estos tickets?
+¡Perfecto! Aquí tienes más ejemplos de usos para el cliente al implementar Freshdesk en tu negocio de ventas al mayor y detal de accesorios y celulares:
+
+---
+
+### Ejemplo 2: Consulta sobre formas de pago
+
+1. El cliente ingresa al portal de soporte o escribe un correo solicitando información sobre métodos de pago.
+2. Completa un formulario sencillo donde selecciona “Consulta de pago” e indica su preferencia (transferencia, tarjeta, efectivo, etc.).
+3. Freshdesk crea un ticket y lo asigna automáticamente al área de ventas o facturación.
+4. El agente responde con los detalles de las formas de pago aceptadas, instrucciones y opciones disponibles.
+5. El cliente puede hacer seguimiento o solicitar aclaraciones en el mismo ticket.
+
+---
+
+### Ejemplo 3: Solicitud de factura electrónica
+
+1. El cliente compra productos y, al finalizar, necesita solicitar la factura electrónica.
+2. Ingresa al portal y rellena un formulario con sus datos fiscales y el número de la venta.
+3. Freshdesk registra y asigna el ticket al área de administración o facturación.
+4. El cliente recibe la factura electrónica en su correo y una confirmación en el sistema.
+5. Todo el proceso queda documentado para futuras consultas.
+
+---
+
+### Ejemplo 4: Soporte post-venta (garantía)
+
+1. El cliente reporta un problema con un producto bajo garantía, usando el formulario “Solicitud de garantía”.
+2. Adjunta datos de la compra y, si es posible, fotos del producto.
+3. Freshdesk asigna el ticket automáticamente al equipo de soporte técnico o garantías.
+4. El agente guía al cliente sobre el proceso de revisión, cambio o reparación.
+5. El cliente puede dar seguimiento y recibir notificaciones de cada paso del proceso.
+
+---
+
+### Ejemplo 5: Notificación de promociones o lanzamientos
+
+1. El cliente quiere estar informado sobre nuevos productos o promociones.
+2. Solicita recibir notificaciones y, mediante Freshdesk, se crea un ticket o se le agrega a una lista de difusión.
+3. El área de marketing puede usar la información para enviar boletines o notificaciones masivas cuando haya novedades.
+
+---
+
+¿Te gustaría ver cómo estructurar alguno de estos formularios o cómo automatizar la asignación de tickets en Freshdesk?
