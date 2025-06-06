@@ -45,5 +45,26 @@ Freshdesk es una plataforma de atención al cliente basada en la nube. Permite c
 - Capacita a tu equipo en el uso básico de la plataforma.
 
 ---
+ejemplo 1)
+cómo un cliente podría usar Freshdesk para consultar un repuesto de forma específica y así mejorar su experiencia:
 
-¿Te gustaría una guía más detallada sobre alguna integración específica (por ejemplo, WhatsApp, correo, o chat web)? ¿O necesitas ayuda para registrar tu cuenta y hacer la primera configuración?
+Portal de autoservicio con formulario personalizado:
+El cliente ingresa al portal de soporte de Freshdesk.
+Accede a un formulario específico para “Consulta de repuestos”.
+Completa campos como: modelo del equipo, número de serie, nombre o código del repuesto, y una descripción opcional de la necesidad.
+Puede subir una foto del equipo o del repuesto que necesita.
+Ticket automático y seguimiento:
+Al enviar el formulario, Freshdesk crea automáticamente un ticket con toda la información proporcionada.
+El sistema asigna el ticket al área correspondiente (por ejemplo, repuestos o almacén).
+El cliente recibe un correo automático confirmando la recepción de su solicitud y el número de ticket para seguimiento.
+Comunicación centralizada:
+El cliente y el agente pueden intercambiar mensajes, adjuntar archivos o resolver dudas dentro del mismo ticket, sin necesidad de buscar correos o llamadas.
+Todas las interacciones quedan registradas y pueden ser consultadas por ambas partes en cualquier momento.
+Respuesta personalizada y cierre:
+El agente responde informando disponibilidad, precio, plazo de entrega o solicitando más detalles si es necesario.
+Una vez resuelta la consulta, el ticket se cierra y el cliente puede evaluar la atención recibida.
+Opcional: Automatizaciones y base de conocimiento
+
+El formulario puede sugerir artículos de la base de conocimientos sobre repuestos populares o procedimientos de cambio, ayudando al cliente a resolver su consulta más rápido.
+Se pueden configurar automatizaciones para priorizar las consultas sobre repuestos críticos.
+¿Te gustaría ver un ejemplo de cómo estructurar el formulario en Freshdesk o cómo automatizar la asignación de estos tickets?
